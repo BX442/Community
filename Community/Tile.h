@@ -5,7 +5,7 @@
 class Tile
 {
 	sf::Sprite sprite;
-	sf::Texture;
+	//sf::Texture;
 public:
 	Tile();
 	~Tile();
